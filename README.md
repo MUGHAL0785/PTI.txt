@@ -1,3 +1,4 @@
+# PTI.TXT
 pkg upgrade
 pkg install python 
 pkg install python2
